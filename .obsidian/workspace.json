@@ -1,0 +1,260 @@
+{
+  "main": {
+    "id": "0ac39bbf738642b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea3a87106f09a00d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3692ca46386eb11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JAVA/接口.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "接口"
+            }
+          },
+          {
+            "id": "90d55f7a30fcbd3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JAVA/idea配制.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "idea配制"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b920420fb6fd2cd8",
+    "type": "split",
+    "children": [
+      {
+        "id": "42b9d90d557fa105",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0bd8653b0dfc8bb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5545e6039b443377",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "426c81e4c37400de",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 240.5
+  },
+  "right": {
+    "id": "715d25553c9c8a95",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf32ea1d1e86313c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0cfc165066769153",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "C语言/字符串.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "字符串 的反向链接列表"
+            }
+          },
+          {
+            "id": "e6fc38ac7245f4a4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "C语言/字符串.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "字符串 的出链列表"
+            }
+          },
+          {
+            "id": "954d1b911bb08004",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "0e986430c706d023",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "JAVA/idea配制.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of idea配制"
+            }
+          },
+          {
+            "id": "1f392b63a534ae78",
+            "type": "leaf",
+            "state": {
+              "type": "code-execute-manage-executors",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "8e8efa2c2fc56b87",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "90d55f7a30fcbd3b",
+  "lastOpenFiles": [
+    "docker/常用命令.md",
+    "JAVA/idea配制.md",
+    "图片/ad6788f219a682b5e083a4ea7d847736.jpg",
+    "计算机网络/第一章.md",
+    "图片/Pasted image 20250820223459.png",
+    "README.md",
+    "图片/1755226630576_d.png",
+    "操作系统/并发.md",
+    "docker",
+    "JAVA/Redis.md",
+    "计算机网络",
+    "新建文本文档.txt",
+    "图片/1750407006800_d.png",
+    "图片/1750388267443_d.png",
+    "图片/1750384780604_d.png",
+    "图片/964de766b19569ec5d935224748f435 2.jpg",
+    "图片/964de766b19569ec5d935224748f435 1.jpg",
+    "图片/964de766b19569ec5d935224748f435.jpg",
+    "图片/1750321266966_d 5.png",
+    "操作系统",
+    "MySQL/基本指令.md",
+    "JAVA/接口.md",
+    "JAVA/类.md",
+    "Linux/常见指令.md",
+    "表示此目录下的所有文件都变更.md",
+    "Linux",
+    "JAVA/注解.md",
+    "未命名",
+    "git/常用指令.md",
+    "JAVA/Vue框架一些基本东西.md",
+    "git",
+    "JAVA/反射.md",
+    "JAVA/I,O.md",
+    "JAVA/泛型,集合.md",
+    "JAVA/调用MySQL.md",
+    "JAVA/多线程.md",
+    "JAVA/异常.md",
+    "MySQL",
+    "C/5.字符串.md",
+    "JAVA/引用.md",
+    "JAVA",
+    "C++/类.md",
+    "C/_数据结构.md",
+    "C/4.指针，数组.md",
+    "C++",
+    "C/git.md",
+    "未命名.canvas"
+  ]
+}

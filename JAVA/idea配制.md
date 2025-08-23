@@ -1,0 +1,1 @@
+D:\java_code\maven\apache-maven-3.9.10\localrepo
